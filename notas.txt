@@ -1,0 +1,11 @@
+GIT
+
+para agregar uno nuevo
+
+git clone para descargar el repositorio en mi pc
+
+git remote -v  me muestra el origin
+
+tarea: crear repositorio, clonar en repositorio local, hacer comit para quede x linea de codigo, y hacer el push.
+
+crear archivo de varias carpetas organizadas de lo que hemos realizado.
